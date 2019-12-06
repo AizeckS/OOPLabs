@@ -1,0 +1,6 @@
+C:\Users\mahal\source\repos\ooplab1\ooplab1\bin\Debug\ooplab1.exe.config
+C:\Users\mahal\source\repos\ooplab1\ooplab1\bin\Debug\ooplab1.exe
+C:\Users\mahal\source\repos\ooplab1\ooplab1\bin\Debug\ooplab1.pdb
+C:\Users\mahal\source\repos\ooplab1\ooplab1\obj\Debug\ooplab1.csprojAssemblyReference.cache
+C:\Users\mahal\source\repos\ooplab1\ooplab1\obj\Debug\ooplab1.exe
+C:\Users\mahal\source\repos\ooplab1\ooplab1\obj\Debug\ooplab1.pdb
