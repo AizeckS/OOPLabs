@@ -4,3 +4,9 @@ C:\Users\mahal\source\repos\ooplab2\ooplab2\bin\Debug\ooplab2.pdb
 C:\Users\mahal\source\repos\ooplab2\ooplab2\obj\Debug\ooplab2.csprojAssemblyReference.cache
 C:\Users\mahal\source\repos\ooplab2\ooplab2\obj\Debug\ooplab2.exe
 C:\Users\mahal\source\repos\ooplab2\ooplab2\obj\Debug\ooplab2.pdb
+E:\OOPlab\lab2\ooplab2\bin\Debug\ooplab2.exe.config
+E:\OOPlab\lab2\ooplab2\bin\Debug\ooplab2.exe
+E:\OOPlab\lab2\ooplab2\bin\Debug\ooplab2.pdb
+E:\OOPlab\lab2\ooplab2\obj\Debug\ooplab2.csprojAssemblyReference.cache
+E:\OOPlab\lab2\ooplab2\obj\Debug\ooplab2.exe
+E:\OOPlab\lab2\ooplab2\obj\Debug\ooplab2.pdb

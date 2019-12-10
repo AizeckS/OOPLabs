@@ -36,8 +36,8 @@ namespace ooplab1
             Console.WriteLine("x={0}", x);
             Console.WriteLine("y={0}", y);
             Console.WriteLine("z={0}", z);
-            Console.WriteLine("a={0}", first);
-            Console.WriteLine("b={0}",second);
+            Console.WriteLine("a={0:f4}", first);
+            Console.WriteLine("b={0:f4}",second);
         }
         public void ShowDataTime()
         {
